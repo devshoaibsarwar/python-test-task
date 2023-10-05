@@ -4,7 +4,7 @@ def validate_phonenumber(data):
     phone_number = data.get("phone")
 
     if phone_number:
-        pattern = r'^\+92-\d{10}$'
+        pattern = r'^99\d{8}$'
 
         if re.match(pattern, phone_number):
             print("Valid phone number:", phone_number)
