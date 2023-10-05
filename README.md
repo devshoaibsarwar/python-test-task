@@ -15,7 +15,7 @@ To run this project, you will need the following:
 
 ## Setup Instructions
 
-1. Clone the repository (if you haven't already):
+1. Clone the repositor
 ```shell
 git clone git@github.com:devshoaibsarwar/python-test-task.git
 ```
